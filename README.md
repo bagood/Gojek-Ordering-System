@@ -5,4 +5,3 @@ Anggota kelompok:
 - Alzena Fairuz Syahda / 16020301
 - Ariabagus Wisnuwardhana Mustikoatmojo / 16020076
 - Vanda Sekar Annisa / 16020046
-
