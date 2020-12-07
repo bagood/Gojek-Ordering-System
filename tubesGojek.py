@@ -5,7 +5,9 @@ def namaBesar_(nama_):
     for n in nama:
         nama_besar += n 
     nama_besar[0] = nama_besar[0].upper()
-    nama = "".join(nama_besar) 
+    nama = ""
+    for n in nama_besar:
+        nama += n 
     return nama
 
 def angkaDisplay(angka):
@@ -32,7 +34,10 @@ def angkaDisplay(angka):
         x += 3
         y += 3 
     baru = baru[::-1]
-    hasil = "".join(baru)
+    hasil = "" 
+    for h in baru :
+        hasil += h
+        
     return hasil
 
 def topUp_():
